@@ -1,5 +1,5 @@
 # git-test
 test
 
-change1
-chsange2
+change1 \n
+change2
